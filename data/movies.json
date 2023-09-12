@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Die Hard",
+        "release": 1998,
+        "duration": 90
+    },
+    {
+        "id": 2,
+        "name": "Expendables",
+        "release": 2008,
+        "duration": 80
+    },
+    {
+        "id": 3,
+        "name": "Interstellar",
+        "release": 2014,
+        "duration": 120
+    },
+    {
+        "id": 4,
+        "name": "Oppenheimer",
+        "release": 2023,
+        "duration": 180
+    },
+    {
+        "id": 5,
+        "name": "Barbie",
+        "release": 2023,
+        "duration": 120
+    }
+]
